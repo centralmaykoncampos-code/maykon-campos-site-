@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Maykon Campos | Oficial</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <img src="banner.jpg" class="banner">
+</header>
+
+<nav>
+  <a href="#sobre">Sobre</a>
+  <a href="#musicas">Músicas</a>
+  <a href="#servicos">Serviços</a>
+  <a href="#contato">Contato</a>
+</nav>
+
+<section id="sobre">
+  <h2>Sobre mim</h2>
+  <img src="arte.jpg" class="foto">
+  <p>
+    Maykon Campos é um artista independente que mistura música, marketing e design
+    para criar projetos visuais e sonoros impactantes.
+  </p>
+</section>
+
+<section id="musicas">
+  <h2>Músicas</h2>
+  <p>Disponível em breve no Spotify e YouTube.</p>
+</section>
+
+<section id="servicos">
+  <h2>Serviços</h2>
+  <ul>
+    <li>Marketing musical</li>
+    <li>Design para artistas</li>
+    <li>Edição de vídeos e capas</li>
+  </ul>
+</section>
+
+<section id="contato">
+  <h2>Contato</h2>
+  <p>
+    <a href="https://wa.me/5534984274274" class="whatsapp">Falar no WhatsApp</a>
+  </p>
+</section>
+
+<footer>
+  <p>© 2026 Maykon Campos</p>
+</footer>
+
+</body>
+</html>
